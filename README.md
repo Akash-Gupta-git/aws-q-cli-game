@@ -21,9 +21,8 @@ Built using **Python** and **Pygame**, and enhanced by integrating **Amazon Q CL
 
 ## 📸 Screenshots
 
-> *(Add 1-2 gameplay screenshots here)*  
-> Example:
-> ![Gameplay](assets/snake-demo.png)
+
+> ![Gameplay](Snake_Game.png)
 
 ---
 
